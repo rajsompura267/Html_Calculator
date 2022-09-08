@@ -1,0 +1,30 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.Cal_border{
+  height: 90vh;
+  width: 40vw;
+  margin-top:25px;
+  margin-left: 50px;
+  background-color: bisque;
+  border: 3px solid;
+}
+#input_name{
+  margin: 10px;
+  height: 50px;
+  width: 38vw;
+}
+input[type=text]{
+  font-size: 40px;
+}
+.button_center{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.button{
+  font-size: 60px;
+  padding: 15px 32px;
+  margin-right: 20px;
+}
